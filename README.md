@@ -48,3 +48,10 @@ including the DataOps and DevOps layers and the agentic AI component.
 - Automated retraining pipeline keeps the model current as new data arrives
 
 ## Project Structure
+
+
+## Status
+
+Actively building out the DataOps, DevOps, and agentic AI layers on top 
+of the working forecasting pipeline. See the roadmap for what's next.
+
