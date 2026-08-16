@@ -49,6 +49,28 @@ including the DataOps and DevOps layers and the agentic AI component.
 
 ## Project Structure
 
+```text
+├── README.md
+├── docs/
+│ ├── ARCHITECTURE.md
+│ └── ROADMAP.md
+├── notebooks/
+│ └── eda_and_modeling.ipynb
+├── src/
+│ ├── ingest.py
+│ ├── transform_pyspark.py
+│ ├── train_model.py
+│ └── quality_checks.py
+├── dags/
+│ └── retrain_dag.py
+├── infra/
+│ └── main.tf
+├── agent/
+│ └── pipeline_health_agent.py
+├── .github/workflows/
+│ └── ci.yml
+└── requirements.txt
+```
 
 ## Status
 
